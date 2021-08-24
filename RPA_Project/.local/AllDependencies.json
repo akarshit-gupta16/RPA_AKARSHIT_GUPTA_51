@@ -1672,7 +1672,6 @@
       "path": "bouncycastle/1.8.5",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "README.md",
         "bouncycastle.1.8.5.nupkg.sha512",
         "bouncycastle.nuspec",
@@ -1685,6 +1684,7 @@
       "path": "closedxml/0.87.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "closedxml.0.87.1.nupkg.sha512",
         "closedxml.nuspec",
         "lib/net35/ClosedXML.dll",
@@ -1723,6 +1723,7 @@
       "path": "documentformat.openxml/2.5.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "documentformat.openxml.2.5.0.nupkg.sha512",
         "documentformat.openxml.nuspec",
         "lib/DocumentFormat.OpenXml.dll"
@@ -1779,7 +1780,6 @@
       "path": "interop.domino.dll/1.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "interop.domino.dll.1.0.0.nupkg.sha512",
         "interop.domino.dll.nuspec",
         "lib/Interop.Domino.dll"
@@ -1869,7 +1869,6 @@
       "path": "newtonsoft.json/11.0.2",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -1899,6 +1898,7 @@
       "path": "npoi/2.4.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE",
         "Read Me.txt",
         "lib/NPOI.xml",
@@ -1932,6 +1932,7 @@
       "path": "sharpziplib/1.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/ICSharpCode.SharpZipLib.dll",
         "lib/net45/ICSharpCode.SharpZipLib.xml",
         "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll",
@@ -2199,8 +2200,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "AllDependencies.json",
-        "UiAutomationActivities.nuget.props",
         "build/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
         "build/ActiproSoftware.Docking.Wpf.dll",
         "build/ActiproSoftware.Editors.Wpf.dll",
@@ -2335,7 +2334,6 @@
         "lib/net461/zh-CN/UiPath.UIAutomation.Activities.Design.resources.dll",
         "lib/net461/zh-CN/UiPath.UiAutomation.Activities.resources.dll",
         "lib/net461/zh-CN/UiPath.Wizards.resources.dll",
-        "nuget.cache",
         "uipath.uiautomation.activities.19.11.3.nupkg.sha512",
         "uipath.uiautomation.activities.nuspec"
       ]
@@ -2423,11 +2421,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "DoWhile_Activity",
-      "projectName": "DoWhile_Activity",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\RPA_AKARSHIT_GUPTA_51\\DoWhile_Activity\\.local",
+      "projectUniqueName": "RPA",
+      "projectName": "RPA",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\RPA_Project\\.local",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\RPA_AKARSHIT_GUPTA_51\\DoWhile_Activity\\.local"
+      "outputPath": "C:\\Users\\Dell\\Desktop\\RPA_Project\\.local"
     },
     "frameworks": {
       "net461": {
